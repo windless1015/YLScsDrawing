@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YLScsDrawing", "YLScsDrawing\YLScsDrawing.csproj", "{9D2F8461-E695-4CE1-8C42-217D602399CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsApplication1", "WindowsApplication1\WindowsApplication1.csproj", "{B2675A07-9513-405E-836E-0A40536DF52E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D2F8461-E695-4CE1-8C42-217D602399CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D2F8461-E695-4CE1-8C42-217D602399CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D2F8461-E695-4CE1-8C42-217D602399CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D2F8461-E695-4CE1-8C42-217D602399CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2675A07-9513-405E-836E-0A40536DF52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2675A07-9513-405E-836E-0A40536DF52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2675A07-9513-405E-836E-0A40536DF52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2675A07-9513-405E-836E-0A40536DF52E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364CFD30-9184-4838-B3C5-9FBA4E422F08}
+	EndGlobalSection
+EndGlobal
